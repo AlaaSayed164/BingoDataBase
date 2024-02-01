@@ -7,6 +7,7 @@ Create Power BI Dashboard for Bingo Database
     ➢ Products (which contains Product’s Info).
     ➢ Reps (Which Contains Sales Indoor).
     ➢ Stores (which Contains Store’s Info).
+    [a link](https://github.com/AlaaSayed164/BingoDataBase/blob/main/Data_alaa.xlsx)
 ## Use Excel to solve the challenges:
     ➢ Add new Sheet with lookups for each ID with Related Info.
     ➢ After Lookups, Calculations (use Formula or Pivot Table)
